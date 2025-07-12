@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>¡Hola, soy Sebastián! <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30px"/></h1>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100px"/>
+  <h1>¡Hola, soy Sebastián! 
+  </h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Cat+Lover+%F0%9F%90%B1" alt="Typing SVG" />
 </div>
-
 
 ## 🚀 Acerca de mí
 Me especializo en desarrollo full-stack y aplicaciones de inteligencia artificial.
