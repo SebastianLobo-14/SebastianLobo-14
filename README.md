@@ -5,12 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Cat+Lover+%F0%9F%90%B1" alt="Typing SVG" />
 </div>
 
-## 🚀 Acerca de mí
+## Acerca de mí
 Me especializo en desarrollo full-stack y aplicaciones de inteligencia artificial.
 
-- 🎓 **Formación:** Ingeniero Civil Industrial, Diplomado en Ingeniería de Computación.  
-- 💻 **Stack favorito:** JavaScript/TypeScript, React, Next.js, PostgreSQL, Prisma.  
-- 🐾 **Dato curioso:** Amante de los gatos 🐈  
+- **Formación:** Ingeniero Civil Industrial, Diplomado en Ingeniería de Computación.  
+- **Stack favorito:** JavaScript/TypeScript, React, Next.js, PostgreSQL, Prisma.  
+- **Dato curioso:** Amante de los gatos 🐈  
 
 
 <div align="center">
