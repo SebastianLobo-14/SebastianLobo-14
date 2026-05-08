@@ -32,7 +32,7 @@ Me especializo en desarrollo full-stack y aplicaciones de inteligencia artificia
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,fastapi,html,css,tailwind,figma" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,prisma,sequelize,redis" />
@@ -45,5 +45,5 @@ Me especializo en desarrollo full-stack y aplicaciones de inteligencia artificia
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode" />
 </div>
